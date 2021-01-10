@@ -5,7 +5,7 @@ This repository contains some of the Homeworks / Exercices / Projects of the cou
 AIC (Apprentissage / Information / Contenu) Master jointly organized by LIMSI (Univ. Paris-Sud), LIX (Ecole Polytechnique), LRI (Univ. Paris-Sud), LTCI (Telecom Paris-Tech), RCV (ENSTA).
 
 # My courses
-* Machine Learning
+* _Machine Learning_
 * Advanced Machine Learning
 * Machine Learning for Big Data
 * Deep Learning
