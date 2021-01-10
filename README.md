@@ -6,7 +6,7 @@ AIC (Apprentissage / Information / Contenu) Master jointly organized by LIMSI (U
 
 # My courses
 ## S1
-* Machine Learning
+* [Machine Learning](https://github.com/wafa-bouzouita/M2AIC/tree/main/Machine%20Learning)
 * Machine Learning for Big Data
 * Deep Learning
 * Image and Signal Processing
