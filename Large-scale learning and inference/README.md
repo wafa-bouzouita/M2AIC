@@ -1,3 +1,5 @@
+# About
+
 This course covers:
 
 * important probability concepts that are useful for machine learning,
