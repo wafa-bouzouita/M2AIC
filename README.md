@@ -8,7 +8,7 @@ AIC (Apprentissage / Information / Contenu) Master jointly organized by LIMSI (U
 ## S1
 * [Machine Learning](https://github.com/wafa-bouzouita/M2AIC/tree/main/Machine%20Learning)
 * [Distributed algorithms and databases](https://github.com/wafa-bouzouita/M2AIC/tree/main/Distributed%20algorithms%20and%20databases)
-* Large-scale learning and inference
+* [Large-scale learning and inference](https://github.com/wafa-bouzouita/M2AIC/tree/main/Large-scale%20learning%20and%20inference)
 * Deep Learning
 * Image and Signal Processing
 * Optimization
