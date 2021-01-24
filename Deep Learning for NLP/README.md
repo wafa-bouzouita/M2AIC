@@ -6,6 +6,7 @@ In this course, we will study how build neural networks for problems related to 
 * build dynamic computation graphs for sequential inputs,
 * predict structures (e.g. text generation, semantic parsing),
 * introduce inductive bias.
+
 Moreover, we will develop a critical analysis of state-of-the-art NLP models:
 
 * do they actually learn what we expect?
